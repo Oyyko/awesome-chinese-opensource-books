@@ -43,5 +43,14 @@ https://github.com/nqdeng/7-days-nodejs
 ## C++ 并发编程指南
 https://github.com/forhappy/Cplusplus-Concurrency-In-Practice
 
+## Python100天从新手到大师
+https://github.com/jackfrued/Python-100-Days
+
+## C++那些事
+https://github.com/Light-City/CPlusPlusThings
+
+## rCore教程 （清华操作系统课程配套书）
+https://github.com/rcore-os/rCore-Tutorial-Book-v3
+
 ---
 部分参考并致谢：https://github.com/marboo/CCBooks
