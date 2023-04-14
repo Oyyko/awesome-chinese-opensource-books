@@ -52,5 +52,14 @@ https://github.com/Light-City/CPlusPlusThings
 ## rCore教程 （清华操作系统课程配套书）
 https://github.com/rcore-os/rCore-Tutorial-Book-v3
 
+## Vim实操教程
+https://github.com/dofy/learn-vim
+
+## 以太坊的指南针
+https://github.com/laalaguer/ethereum-compass
+
+## archlinux 简明指南
+https://github.com/nakanomikuorg/arch-guide
+
 ---
 部分参考并致谢：https://github.com/marboo/CCBooks
